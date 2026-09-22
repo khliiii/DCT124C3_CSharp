@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Bai1_2/Bai1_2.csproj" />
+  <Project Path="../Bai1_3/Bai1_3.csproj" />
+  <Project Path="../ConsoleApp1/Bai1_4.csproj" />
+  <Project Path="Bai1_1.csproj" />
+</Solution>
