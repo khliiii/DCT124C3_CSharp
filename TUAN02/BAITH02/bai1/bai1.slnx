@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="../bai10/bai10.csproj" Id="59427abd-7d64-4838-b212-cf6ebedf21ff" />
+  <Project Path="../bai11/bai11.csproj" Id="eba46986-75a2-48b3-a795-01db33a0ecb9" />
+  <Project Path="../bai12/bai12.csproj" Id="99d92d72-5aed-4efc-8295-886fed744973" />
+  <Project Path="../bai2/bai2.csproj" />
+  <Project Path="../bai3/bai3.csproj" Id="6cb97128-1a1d-45a1-b2fc-3e64ccf31a1a" />
+  <Project Path="../bai4/bai4.csproj" Id="0e196232-255e-4e01-a80a-91bc15814fec" />
+  <Project Path="../bai5/bai5.csproj" Id="5c3350b6-bcd1-4daa-b2e4-ed2cda75922b" />
+  <Project Path="../bai6/bai6.csproj" Id="cbbf9763-47c7-4a72-aaf4-88dbceb369c9" />
+  <Project Path="../bai7/bai7.csproj" Id="c7760146-e9f4-4a37-b26d-dc8715811f1e" />
+  <Project Path="../bai8/bai8.csproj" Id="f4edf5c0-1266-4f7d-9bb4-27802aee6236" />
+  <Project Path="../bai9/bai9.csproj" Id="31c06ee7-0e5f-4ff7-912a-74bc6c66e553" />
+  <Project Path="bai1.csproj" />
+</Solution>

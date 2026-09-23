@@ -1,0 +1,16 @@
+C:\doan\DCT124C3_CSharp\TUAN02\BAITH02\bai7\bin\Debug\net10.0\bai7.exe
+C:\doan\DCT124C3_CSharp\TUAN02\BAITH02\bai7\bin\Debug\net10.0\bai7.deps.json
+C:\doan\DCT124C3_CSharp\TUAN02\BAITH02\bai7\bin\Debug\net10.0\bai7.runtimeconfig.json
+C:\doan\DCT124C3_CSharp\TUAN02\BAITH02\bai7\bin\Debug\net10.0\bai7.dll
+C:\doan\DCT124C3_CSharp\TUAN02\BAITH02\bai7\bin\Debug\net10.0\bai7.pdb
+C:\doan\DCT124C3_CSharp\TUAN02\BAITH02\bai7\obj\Debug\net10.0\bai7.GeneratedMSBuildEditorConfig.editorconfig
+C:\doan\DCT124C3_CSharp\TUAN02\BAITH02\bai7\obj\Debug\net10.0\bai7.AssemblyInfoInputs.cache
+C:\doan\DCT124C3_CSharp\TUAN02\BAITH02\bai7\obj\Debug\net10.0\bai7.AssemblyInfo.cs
+C:\doan\DCT124C3_CSharp\TUAN02\BAITH02\bai7\obj\Debug\net10.0\bai7.csproj.CoreCompileInputs.cache
+C:\doan\DCT124C3_CSharp\TUAN02\BAITH02\bai7\obj\Debug\net10.0\bai7.sourcelink.json
+C:\doan\DCT124C3_CSharp\TUAN02\BAITH02\bai7\obj\Debug\net10.0\bai7.dll
+C:\doan\DCT124C3_CSharp\TUAN02\BAITH02\bai7\obj\Debug\net10.0\refint\bai7.dll
+C:\doan\DCT124C3_CSharp\TUAN02\BAITH02\bai7\obj\Debug\net10.0\bai7.pdb
+C:\doan\DCT124C3_CSharp\TUAN02\BAITH02\bai7\obj\Debug\net10.0\bai7.genruntimeconfig.cache
+C:\doan\DCT124C3_CSharp\TUAN02\BAITH02\bai7\obj\Debug\net10.0\ref\bai7.dll
+C:\doan\DCT124C3_CSharp\TUAN02\BAITH02\bai7\obj\Debug\net10.0\bai7.csproj.Up2Date
