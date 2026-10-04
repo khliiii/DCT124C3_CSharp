@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaiThucHanhLINQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31814159072d8459fe76655334aa014cf306929f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaiThucHanhLINQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaiThucHanhLINQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
