@@ -1,0 +1,11 @@
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6b\bin\Debug\TH6b.exe.config
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6b\bin\Debug\TH6b.exe
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6b\bin\Debug\TH6b.pdb
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6b\obj\Debug\TH6b.csproj.AssemblyReference.cache
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6b\obj\Debug\TH6b.frmKhoa.resources
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6b\obj\Debug\TH6b.frmLop.resources
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6b\obj\Debug\TH6b.Properties.Resources.resources
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6b\obj\Debug\TH6b.csproj.GenerateResource.cache
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6b\obj\Debug\TH6b.csproj.CoreCompileInputs.cache
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6b\obj\Debug\TH6b.exe
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6b\obj\Debug\TH6b.pdb
