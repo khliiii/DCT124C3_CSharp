@@ -1,0 +1,10 @@
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6a\bin\Debug\TH6a.exe.config
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6a\bin\Debug\TH6a.exe
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6a\bin\Debug\TH6a.pdb
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6a\obj\Debug\TH6a.csproj.AssemblyReference.cache
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6a\obj\Debug\TH6a.Form1.resources
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6a\obj\Debug\TH6a.Properties.Resources.resources
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6a\obj\Debug\TH6a.csproj.GenerateResource.cache
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6a\obj\Debug\TH6a.csproj.CoreCompileInputs.cache
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6a\obj\Debug\TH6a.exe
+C:\doan\DCT124C3_CSharp\TUAN06\LAB06\TH6a\obj\Debug\TH6a.pdb
