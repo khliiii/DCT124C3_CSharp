@@ -4,12 +4,12 @@ using System.Windows.Forms;
 
 namespace TH6a
 {
-    public partial class Form1 : Form
+    public partial class frmKhoa : Form
     {
         // Chuỗi kết nối (Đã khớp với LocalDB trên máy bạn)
         string connStr = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=QLSinhVien;Integrated Security=True";
 
-        public Form1()
+        public frmKhoa  ()
         {
             InitializeComponent();
         }

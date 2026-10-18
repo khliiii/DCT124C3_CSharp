@@ -58,7 +58,6 @@
             this.cboMonHoc.Name = "cboMonHoc";
             this.cboMonHoc.Size = new System.Drawing.Size(204, 24);
             this.cboMonHoc.TabIndex = 2;
-            this.cboMonHoc.SelectedIndexChanged += new System.EventHandler(this.cboMonHoc_SelectedIndexChanged);
             // 
             // btnLoc
             // 

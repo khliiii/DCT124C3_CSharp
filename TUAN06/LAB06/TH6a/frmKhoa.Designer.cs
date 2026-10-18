@@ -1,6 +1,6 @@
 ﻿namespace TH6a
 {
-    partial class Form1
+    partial class frmKhoa
     {
         /// <summary>
         /// Required designer variable.
