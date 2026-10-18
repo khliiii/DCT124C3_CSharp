@@ -16,7 +16,7 @@ namespace TH6a
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMonHoc());
+            Application.Run(new frmKhoa());
         }
     }
 }
